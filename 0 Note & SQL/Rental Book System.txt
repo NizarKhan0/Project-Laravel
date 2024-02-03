@@ -1,0 +1,17 @@
+Rental Book System (Laravel by Nizar Khan)
+
+1. have 2 user : admin, client
+2. book have many category
+3. 1 title book can have over than one (different by book code)
+4. list book can be review without login
+5. can search book by category or title
+6. for rent book, client must register account
+7. client can register , but it will approve by admin (check validationetc,phone no, email)
+8. admin can add data book, category and assign book to category
+9. client can rent maximum 3 book only
+10. client can rent maximum 3 day only
+11. admin can view list book rent by client
+12. admin can view client that have been penalty (3 day not return the book) can see client detail
+13. admin can view log rental book. (give must date to return the book & actual date return book)
+
+
